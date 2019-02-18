@@ -1,0 +1,20 @@
+{
+  "name": "react-native-device-identifier",
+  "version": "1.0.0",
+  "description": "Detect device you are currently running on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kennym/react-native-device-identifier"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ios"
+  ],
+  "author": "Kenny Meyer",
+  "license": "ISC"
+}
