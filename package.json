@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-identifier",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Detect device you are currently running on",
   "main": "index.js",
   "scripts": {
