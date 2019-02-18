@@ -24,7 +24,7 @@ class ReactNativeDeviceIdentifier {
    * - iPhone XS
    */
   getModelName() {
-    if (this.isIOS() && this.height === 560 && this.width === 320) {
+    if (this.isIOS() && this.height === 568 && this.width === 320) {
       return "iPhone SE"
     } else {
       return "Not implemented"
